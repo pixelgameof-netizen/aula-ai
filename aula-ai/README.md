@@ -24,3 +24,4 @@ En Supabase, habilitar Email en Authentication > Providers y configurar las URLs
 
 ## Privacidad
 No subir información confidencial o sensible. El navegador usa solo la publishable key. Las contraseñas las gestiona Supabase Auth.
+Actualización de configuración de despliegue Aula AI - 24/11/2026
